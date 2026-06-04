@@ -14,7 +14,7 @@ two projects to see how to implement Passkeys on iOS and Android native apps for
 - API Visual Guide https://webauthn.guide/ 
 - Demo with Debugger https://www.webauthn.me/debugger 
 - Modern Web Guidance https://developer.chrome.com/docs/modern-web-guidance 
-- JSON de AAGUID https://github.com/passkeydeveloper/passkey-authenticator-aaguids 
+- JSON for AAGUID https://github.com/passkeydeveloper/passkey-authenticator-aaguids 
 - Passkey Skills https://github.com/GoogleChrome/modern-web-guidance-src/tree/main/guides/passkeys 
 - Modern Authentication https://developer.chrome.com/blog/io26-web-identity 
 - Chrome 129 additions https://developer.chrome.com/blog/ passkeys-updates-chrome-129 
