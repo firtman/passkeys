@@ -6,6 +6,19 @@ Then, you can follow along the workshop with instructions delivered by the train
 In the assets folders, you will find a copy of the slides, the final project, and 
 two projects to see how to implement Passkeys on iOS and Android native apps for clients.
 
+## Links
+- Demo https://demo.authsignal.com/
+- Demo https://www.passkeys.io/ 
+- Demo https://learnpasskeys.io/demo 
+- Demo https://webauthn.io/ 
+- Guía visual de la API https://- webauthn.guide/ 
+- Demo con Debugger https://www.- webauthn.me/debugger 
+- Modern Web Guidance https://developer.- chrome.com/docs/modern-web-guidance 
+- JSON de AAGUID https://github.com/- passkeydeveloper/- passkey-authenticator-aaguids 
+- Passkey Skills https://github.com/- GoogleChrome/modern-web-guidance-src/- tree/main/guides/passkeys 
+- Modern Authentication https://- developer.chrome.com/blog/- io26-web-identity 
+- Chrome 129 additions https://- developer.chrome.com/blog/- passkeys-updates-chrome-129 
+
 ## Code Snippets
 
 
